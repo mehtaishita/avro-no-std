@@ -246,6 +246,7 @@ dependencies = [
  "apache-avro",
  "proptest",
  "rayon",
+ "serde",
  "sha2",
  "sp-std",
  "thiserror",
